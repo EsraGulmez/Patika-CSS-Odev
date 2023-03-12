@@ -1,0 +1,39 @@
+
+body{
+    text-align: center;
+}
+a{
+    color: rgb(223, 114, 114);
+}
+
+
+nav  {
+    display: inline-block;   
+    text-indent: 5px; 
+}
+.h1{
+    color: coral;    
+}
+h2{
+    color: chocolate;   
+}
+footer{
+    display: inline-block;
+}
+.huc{
+    color: blueviolet;
+}
+
+footer>ul>li{  
+    text-align: left;
+    margin-left: 70px;
+    
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+.hç{
+    color: brown;
+}
